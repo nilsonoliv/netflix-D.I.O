@@ -1,0 +1,3 @@
+
+imagem principal não aparece.
+imagem de erro do console : GET file:///C:/my-netflix/img/capa-house.jpg net::ERR_FILE_NOT_FOUND
